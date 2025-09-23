@@ -8,3 +8,4 @@ Thumbs.db
 
 # Go build files
 monomate
+bin/
