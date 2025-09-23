@@ -1,0 +1,10 @@
+# IDE directories
+.idea
+.vscode
+
+# macOS files
+.DS_Store
+Thumbs.db
+
+# Go build files
+monomate
