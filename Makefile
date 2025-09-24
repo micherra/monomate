@@ -51,4 +51,3 @@ version:
 
 clean:
 	rm -rf bin
-	rm monomate
