@@ -44,7 +44,7 @@ func (pm PackageManager) ParsePackageManager(packageManager string) PackageManag
 	if len(parts) < 2 {
 		version = ""
 	} else {
-		version = strings.TrimSpace(version)
+		version = strings.TrimSpace(parts[1])
 	}
 
 	return PackageManager{
